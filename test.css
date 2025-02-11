@@ -1,0 +1,8 @@
+.image-container {
+    display: flex;
+    align-items: center;
+    gap: 20px; 
+}
+.image-box {
+    text-align: center;
+}
